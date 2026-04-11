@@ -14,9 +14,7 @@
 
 ### 🎥 Demo Video
 
-👉 [https://drive.google.com/drive/folders/17uM3MAu2FjeyVQZG-yNrY8_uJ6RwSylX?usp=drive_link](https://drive.google.com/drive/folders/17uM3MAu2FjeyVQZG-yNrY8_uJ6RwSylX?usp=drive_link)
-
----
+👉 https://drive.google.com/drive/folders/1oA1HRV6bZk26BhfgP9WYBi8h2VDlOukS?usp=drive_link
 
 ## 🧩 Features
 
